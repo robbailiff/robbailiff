@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **robbailiff/robbailiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋 I'm [Rob][website] but you can call me Harry 😀
+## Hi there 👋 I'm [Rob][website] 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=robbailiff.robbailiff) [![Github](https://img.shields.io/github/followers/robbailiff?label=Followers&logo=Github)](https://github.com/robbailiff)
 
 
 
-
+<!--
 ## 🎓 I'm an MSc Data Science student at the University of Edinburgh
 
 - 🔭 I’m currently developing a mobile app with Glideapps.
@@ -46,7 +44,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<--
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -66,7 +64,7 @@ Here are some ideas to get you started:
 
 <br />
 
--->
+
 
 ## :blue_book: Blog posts:
 <!-- BLOG-POST-LIST:START -->
@@ -76,7 +74,7 @@ Here are some ideas to get you started:
 - [Create a static webpage with a contact form on Github pages](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
 <!-- BLOG-POST-LIST:END -->
 
-
+-->
 
 ## :trophy: My Github Stats:
 
@@ -95,7 +93,7 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://charalambosioannou.github.io/
-[linkedin]: https://linkedin.com/in/charalambosioannou
-[mail]: mailto:cioannou1997@gmail.com
+[website]: https://robbailiff.github.io/
+[linkedin]: https://linkedin.com/in/robbailiff
+[mail]: mailto:robbailiff@gmail.com
 
