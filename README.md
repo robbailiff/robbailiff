@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to my profile page! 👋 
+## Welcome to my profile page! :wave:
 ![](https://visitor-badge.laobi.icu/badge?page_id=robbailiff.robbailiff)[![Github](https://img.shields.io/github/followers/robbailiff?label=Followers&logo=Github)](https://github.com/robbailiff)
 
-I'm Rob and welcome to my **GitHub** profile page 😀. I am a software developer and have recently made the transition to this new career path after actively self-learning programming languages and tools in spare time for the last few years. The majority of this time was spent with Python which I used in my previous career as a Geoscientist in the OIl & Gas industry for more than 13 years. You can read about me career change in a [blog post](https://dev.to/robbailiff/my-journey-into-software-development-11le) I wrote about my experience.
+I'm Rob and welcome to my **GitHub** profile page :smile:. I am a software developer and have recently made the transition to this new career path after actively self-learning programming languages and tools in spare time for the last few years. The majority of this time was spent with Python which I used in my previous career as a Geoscientist in the OIl & Gas industry for more than 13 years. You can read about me career change in a [blog post](https://dev.to/robbailiff/my-journey-into-software-development-11le) I wrote about my experience.
 
 
 **Languages and Tools:**
@@ -33,6 +33,8 @@ I'm Rob and welcome to my **GitHub** profile page 😀. I am a software develope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=robbailiff&show_icons=true)
+
+Connect with me using one of the links below :point_down:
 
 [![Twitter: Rob_Bailiff](https://img.shields.io/twitter/follow/Rob_Bailiff?style=social)](https://twitter.com/Rob_Bailiff)
 [![Linkedin: Rob Bailiff](https://img.shields.io/badge/-RobBailiff-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robbailiff/)](https://www.linkedin.com/in/robbailiff/)
